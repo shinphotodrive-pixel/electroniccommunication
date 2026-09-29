@@ -1,0 +1,6 @@
+{
+  "name": "전자 및 통신 공학 종합 지식 탐색기",
+  "description": "맥스웰 방정식, 반도체 GAAFET, Op-Amp/ADC, RF 전파 경로 손실, 섀넌 용량, 6G RIS 인프라 및 레이더/카메라/LED 시스템 소모전력 및 독립형 태양광·배터리 설계 분석기",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
